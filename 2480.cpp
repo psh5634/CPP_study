@@ -16,7 +16,7 @@ int main()
         {
             cout << a * 100 << endl;
         }
-        else if(b > a &&  > c)
+        else if(b > a && b > c)
         {
             cout << b * 100 << endl;
         }
